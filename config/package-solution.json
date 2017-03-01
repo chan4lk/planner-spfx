@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "planner-app-client-side-solution",
+    "id": "27302a86-d85f-481d-952c-8df6cf9a56dc",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/planner-app.sppkg"
+  }
+}

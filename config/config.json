@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/pannerWebPart/PannerWebPartWebPart.js",
+      "manifest": "./src/webparts/pannerWebPart/PannerWebPartWebPart.manifest.json",
+      "outputPath": "./dist/panner-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "pannerWebPartStrings": "webparts/pannerWebPart/loc/{locale}.js"
+  }
+}

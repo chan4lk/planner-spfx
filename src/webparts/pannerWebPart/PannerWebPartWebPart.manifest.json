@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "79ceb782-2294-4ebc-819f-32c045783d63",
+  "alias": "PannerWebPartWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "79ceb782-2294-4ebc-819f-32c045783d63",
+    "group": { "default": "Under Development" },
+    "title": { "default": "PannerWebPart" },
+    "description": { "default": "PannerWebPart description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "PannerWebPart"
+    }
+  }]
+}
